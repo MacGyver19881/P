@@ -1,0 +1,4 @@
+P
+=
+
+exercice algo
